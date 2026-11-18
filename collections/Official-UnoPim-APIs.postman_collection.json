@@ -1702,7 +1702,7 @@
    "updatedAt": "2024-09-13T04:44:21.000Z",
    "uid": "37137259-8154968a-62d5-429d-8691-5e80625f3444"
   },
-  {
+   {
   "name": "Association Types",
   "item": [
    {
@@ -1951,7 +1951,13 @@
      }
     },
     "response": []
-   },
+   }
+  ],
+  "id": "e983a69e-1967-4114-9c09-b071eded7777"
+ },
+  {
+  "name": "Association Type Fields",
+  "item": [
    {
     "name": "Get Association Type Fields",
     "id": "faaa45b7-b1bd-4cc9-9fdc-925e01315cfe",
@@ -2125,7 +2131,7 @@
     "response": []
    }
   ],
-  "id": "e983a69e-1967-4114-9c09-b071eded7777"
+  "id": "444dc0f8-4a23-4544-9918-c4801f8631c0"
  },
   {
    "name": "Attribute",
